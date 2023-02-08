@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LYNC-OKX-SDK/Scenes/ConnectWallet.unity
+    guid: 5bd7a87f5827542d0a59751cce373afd
+  - enabled: 1
+    path: Assets/LYNC-OKX-SDK/Scenes/FetchWallet.unity
+    guid: f55c303ee8dc74a38a7850ef357c7259
   m_configObjects: {}
