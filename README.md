@@ -44,3 +44,7 @@ To do this, go to "File" on the top menu bar in the Unity editor and select "Bui
 
 
 Congratulation, you have successfully integrated the OKX wallet with your favourite blockchain network using LYNC SDK. 
+
+NOTE: If you wish to use wallet address inside game after user's wallet is connected, use:
+
+```PlayerPrefs.GetString("WalletAddress");```
