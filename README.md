@@ -1,4 +1,4 @@
-# OKX-Wallet-SDK
+# LYNC-OKX-Wallet-SDK
 
 The LYNC - OKX wallet SDK allows game developers to integrate OKX Wallet into their games quickly, and set up OKX Chain inside the game in less than 30 seconds. This SDK allows game developers to monitor gamers’ data via the LYNC analytics system and update the SDK without leaving the game engine.
 
